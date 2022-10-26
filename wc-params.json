@@ -1,0 +1,4 @@
+{
+    "sleep" : 5,
+    "input" : "fastqs/*_L001_R2_001.fastq.gz"
+}
